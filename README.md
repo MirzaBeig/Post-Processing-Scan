@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/37354140/148223918-e0093656-7a34-4c43-
 ## Compatibility
 
 - Built-in pipeline.
-- Tested with Unity 2020.3 (LTS). 
+- Tested with Unity 2019.4 (LTS). 
 - Can be edited using Amplify Shader Editor.
 
 ## Installation
