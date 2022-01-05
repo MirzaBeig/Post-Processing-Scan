@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Scan
+  m_Name: Post-Processing Scan 1
   m_Shader: {fileID: 4800000, guid: 34f449e1093a9fb498ea2cd79f1a4af5, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -102,6 +102,6 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Origin: {r: 0, g: 0, b: 1, a: 0}
-    - _ScanColour: {r: 1, g: 1, b: 1, a: 1}
+    - _ScanColour: {r: 1, g: 0, b: 0, a: 1}
     - _ScanOrigin: {r: 0, g: 0, b: 0.5, a: 0}
     - _Vector0: {r: 0, g: 0, b: 1, a: 0}

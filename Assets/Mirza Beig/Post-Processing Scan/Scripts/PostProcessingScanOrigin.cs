@@ -2,18 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Scan : MonoBehaviour
+[ExecuteAlways]
+public class PostProcessingScanOrigin : MonoBehaviour
 {
     public Material material;
-    public Transform origin;
 
     void Start()
     {
 
     }
 
-    void Update()
+    void LateUpdate()
     {
-        material.SetVector("_ScanOrigin", origin.position);
+        material.SetVector("_ScanOrigin", transform.position);
     }
 }
