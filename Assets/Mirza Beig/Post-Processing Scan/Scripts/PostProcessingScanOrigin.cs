@@ -14,6 +14,6 @@ public class PostProcessingScanOrigin : MonoBehaviour
 
     void LateUpdate()
     {
-        material.SetVector("_ScanOrigin", transform.position);
+        material.SetVector("_Origin", transform.position);
     }
 }
