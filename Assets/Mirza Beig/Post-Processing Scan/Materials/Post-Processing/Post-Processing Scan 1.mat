@@ -36,4 +36,4 @@ Material:
     - _Tiling: 0.2
     m_Colors:
     - _Colour: {r: 1, g: 0, b: 0, a: 1}
-    - _Origin: {r: 0, g: 0, b: 0, a: 0}
+    - _Origin: {r: -2, g: 0, b: 1.75, a: 0}
