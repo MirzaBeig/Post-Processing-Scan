@@ -42,3 +42,7 @@ Use Unity's Post-Processing Stack v2 and simply add the effect.
 
 ## License
 [Unlicense](LICENSE) (do whatever you want with this)...
+
+## Support/Donate...
+
+This is a FREE asset. However, if you'd like, you can support me via one of the sponsor links on the side. Every bit is appreciated!
