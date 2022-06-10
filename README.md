@@ -34,7 +34,7 @@ You'll find everything under Mirza Beig/Post-Processing Scan/...
 
 Use Unity's Post-Processing Stack v2 and simply add the effect.
 
-![image](https://user-images.githubusercontent.com/37354140/148717857-08f6162d-a3b9-47af-b242-b5431b4b5379.png)
+![image](https://user-images.githubusercontent.com/37354140/173141406-20aa2edd-5470-4cea-8d76-6e3e357d7c3c.png)
 
 ## Social Media
 - [Twitter](https://twitter.com/TheMirzaBeig/)
