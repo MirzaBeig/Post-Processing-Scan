@@ -31,13 +31,15 @@ public sealed class PostProcessingScan : PostProcessEffectSettings
 
     [Header("Mask")]
 
-    [Tooltip("Mask")]
-    [Range(0.0f, 1.0f)]
-    public FloatParameter _Mask = new FloatParameter { value = 0.3f };
+    [Tooltip("Mask Radius")]
+    public FloatParameter _MaskRadius = new FloatParameter { value = 5.0f };
 
     [Tooltip("Mask Hardness")]
     [Range(0.0f, 1.0f)]
-    public FloatParameter _MaskHardness = new FloatParameter { value = 10.0f };
+    public FloatParameter _MaskHardness = new FloatParameter { value = 1.0f };
+
+    [Tooltip("Mask Power")]
+    public FloatParameter _MaskPower = new FloatParameter { value = 1.0f };
 
     //[Range(1, 10)]
     //public IntParameter iterations;
@@ -54,15 +56,11 @@ public sealed class PostProcessingScanRenderer : PostProcessEffectRenderer<PostP
         sheet.properties.SetFloat("_Power", settings._Power);
         sheet.properties.SetFloat("_Tiling", settings._Tiling);
         sheet.properties.SetFloat("_Speed", settings._Speed);
-        sheet.properties.SetFloat("_Mask", settings._Mask);
+        sheet.properties.SetFloat("_MaskRadius", settings._MaskRadius);
         sheet.properties.SetFloat("_MaskHardness", settings._MaskHardness);
+        sheet.properties.SetFloat("_MaskPower", settings._MaskPower);
 
         context.command.BlitFullscreenTriangle(context.source, context.destination, sheet, 0);
-
-        //for (int i = 0; i < 1; i++)
-        //{
-        //    context.command.BlitFullscreenTriangle(context.source, context.destination, sheet, 0);
-        //}
     }
 }
 

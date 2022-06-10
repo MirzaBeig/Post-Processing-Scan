@@ -1446,12 +1446,15 @@ MonoBehaviour:
   _Speed:
     overrideState: 0
     value: 1
-  _Mask:
+  _MaskRadius:
     overrideState: 0
-    value: 0.3
+    value: 5
   _MaskHardness:
     overrideState: 0
     value: 10
+  _MaskPower:
+    overrideState: 0
+    value: 1
 --- !u!114 &9102118652703598812
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1483,9 +1486,12 @@ MonoBehaviour:
   _Speed:
     overrideState: 1
     value: 1
-  _Mask:
+  _MaskRadius:
     overrideState: 1
-    value: 0.3
+    value: 2
   _MaskHardness:
+    overrideState: 1
+    value: 1
+  _MaskPower:
     overrideState: 1
     value: 1

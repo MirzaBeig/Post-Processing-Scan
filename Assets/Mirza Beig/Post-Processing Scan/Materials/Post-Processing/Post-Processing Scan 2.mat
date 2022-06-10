@@ -77,10 +77,12 @@ Material:
     - _Intensity: 1
     - _Mask: 0.3
     - _MaskAmount: 0.5
-    - _MaskHardness: 10
+    - _MaskHardness: 1
     - _MaskPower: 10
+    - _MaskRadius: 5
     - _Metallic: 0
     - _Mode: 0
+    - _MultiplyBlend: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _Power: 10

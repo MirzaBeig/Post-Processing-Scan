@@ -29,11 +29,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Mask: 1
-    - _MaskHardness: 10
+    - _MaskHardness: 0.5
     - _MaskPower: 10
+    - _MaskRadius: 5
+    - _MultiplyBlend: 0
     - _Power: 5
     - _Speed: 0.5
     - _Tiling: 0.2
     m_Colors:
     - _Colour: {r: 1, g: 0, b: 0, a: 1}
     - _Origin: {r: -2, g: 0, b: 1.75, a: 0}
+  m_BuildTextureStacks: []
