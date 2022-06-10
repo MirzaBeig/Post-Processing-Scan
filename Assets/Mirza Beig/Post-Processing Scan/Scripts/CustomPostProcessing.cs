@@ -12,3 +12,4 @@ public class CustomPostProcessing : MonoBehaviour
         Graphics.Blit(source, destination, material);
     }
 }
+
