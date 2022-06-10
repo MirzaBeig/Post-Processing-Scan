@@ -48,3 +48,7 @@ Use Unity's Post-Processing Stack v2 and simply add the effect.
 This is a FREE asset. However, if you'd like, you can support me via one of the sponsor links on the side. 
 
 Every bit is appreciated!
+
+## Patrons (Thank You!)
+
+Adam Mulvey
