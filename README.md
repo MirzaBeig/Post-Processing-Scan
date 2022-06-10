@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/37354140/148719481-aedd5c44-d6fe-40fe-
 
 ## Compatibility
 
-- Built-in pipeline.
+- Built-in pipeline + URP.
 - Tested with Unity 2019.4 (LTS). 
 - Can be edited using Amplify Shader Editor.
 
