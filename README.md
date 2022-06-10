@@ -2,6 +2,8 @@
 
 A 3D scan/sonar-like post-processing effect. Essentially a visualization of a spherical signed distance field (SDF) rendered using the scene's depth and colour buffers. Multiple scans are supported without image-effects, and one that works with image effects (other post-processing effects).
 
+https://user-images.githubusercontent.com/37354140/173145001-7cd796c6-1687-4946-92e6-9edbab82fc5c.mp4
+
 https://user-images.githubusercontent.com/37354140/148225050-e0494988-274d-4e62-9bf9-c619abe5c9dd.mp4
 
 https://user-images.githubusercontent.com/37354140/148223918-e0093656-7a34-4c43-b3cd-c887ba678ce3.mp4
