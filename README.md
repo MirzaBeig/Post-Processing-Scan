@@ -51,4 +51,4 @@ Every bit is appreciated!
 
 ## Patrons (Thank You!)
 
-Adam Mulvey
+- Adam Mulvey
