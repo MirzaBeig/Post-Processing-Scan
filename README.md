@@ -20,7 +20,9 @@ You'll find everything under Mirza Beig/Post-Processing Scan/...
 
 ## Usage
 
-### Multiple Scans:
+### Built-In
+
+#### Multiple Scans
 
 1. Attach _CustomPostProcessing_ to your camera, and assign one of the included _Post-Processing Scan_ materials (or make your own).
 
@@ -30,11 +32,18 @@ You'll find everything under Mirza Beig/Post-Processing Scan/...
 
 ![image](https://user-images.githubusercontent.com/37354140/148224143-e1e7feef-7abf-42ad-8710-b561c18be588.png)
 
-### Single Scan:
+#### Single Scan
 
 Use Unity's Post-Processing Stack v2 and simply add the effect.
 
 ![image](https://user-images.githubusercontent.com/37354140/173141406-20aa2edd-5470-4cea-8d76-6e3e357d7c3c.png)
+
+### URP
+
+Instead of attaching a script to the camera, add CustomRenderPassFeature to your URP pipeline asset renderer and assign the material there.
+
+![image](https://user-images.githubusercontent.com/37354140/173144456-60904e0a-4615-4831-8920-b2d92ec174b8.png)
+![image](https://user-images.githubusercontent.com/37354140/173144396-f4525564-698e-4b04-a04e-1d148a7d7f1b.png)
 
 ## Social Media
 - [Twitter](https://twitter.com/TheMirzaBeig/)
