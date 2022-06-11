@@ -2,6 +2,10 @@
 
 A 3D scan/sonar-like post-processing effect. Essentially a visualization of a spherical signed distance field (SDF) rendered using the scene's depth and colour buffers. Multiple scans are supported without image-effects, and one that works with image effects (other post-processing effects).
 
+### NOTE: There are URP previews below. URP will be supported soon, but is NOT yet available.
+
+https://user-images.githubusercontent.com/37354140/173145001-7cd796c6-1687-4946-92e6-9edbab82fc5c.mp4
+
 https://user-images.githubusercontent.com/37354140/148225050-e0494988-274d-4e62-9bf9-c619abe5c9dd.mp4
 
 https://user-images.githubusercontent.com/37354140/148223918-e0093656-7a34-4c43-b3cd-c887ba678ce3.mp4
@@ -10,7 +14,7 @@ https://user-images.githubusercontent.com/37354140/148719481-aedd5c44-d6fe-40fe-
 
 ## Compatibility
 
-- Built-in pipeline.
+- Built-in pipeline + URP.
 - Tested with Unity 2019.4 (LTS). 
 - Can be edited using Amplify Shader Editor.
 
@@ -20,7 +24,9 @@ You'll find everything under Mirza Beig/Post-Processing Scan/...
 
 ## Usage
 
-### Multiple Scans:
+### Built-In
+
+#### Multiple Scans
 
 1. Attach _CustomPostProcessing_ to your camera, and assign one of the included _Post-Processing Scan_ materials (or make your own).
 
@@ -30,11 +36,18 @@ You'll find everything under Mirza Beig/Post-Processing Scan/...
 
 ![image](https://user-images.githubusercontent.com/37354140/148224143-e1e7feef-7abf-42ad-8710-b561c18be588.png)
 
-### Single Scan:
+#### Single Scan
 
 Use Unity's Post-Processing Stack v2 and simply add the effect.
 
-![image](https://user-images.githubusercontent.com/37354140/148717857-08f6162d-a3b9-47af-b242-b5431b4b5379.png)
+![image](https://user-images.githubusercontent.com/37354140/173141406-20aa2edd-5470-4cea-8d76-6e3e357d7c3c.png)
+
+### URP
+
+Instead of attaching a script to the camera, add CustomRenderPassFeature to your URP pipeline asset renderer and assign the material there.
+
+![image](https://user-images.githubusercontent.com/37354140/173144456-60904e0a-4615-4831-8920-b2d92ec174b8.png)
+![image](https://user-images.githubusercontent.com/37354140/173144396-f4525564-698e-4b04-a04e-1d148a7d7f1b.png)
 
 ## Social Media
 - [Twitter](https://twitter.com/TheMirzaBeig/)
@@ -48,3 +61,7 @@ Use Unity's Post-Processing Stack v2 and simply add the effect.
 This is a FREE asset. However, if you'd like, you can support me via one of the sponsor links on the side. 
 
 Every bit is appreciated!
+
+## Patrons (Thank You!)
+
+- Adam Mulvey
