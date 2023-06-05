@@ -10,13 +10,13 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
 
+A 3D scan/sonar-like post-processing effect. Essentially a visualization of a spherical signed distance field (SDF) rendered using the scene's depth and colour buffers. Multiple scans are supported without image-effects, and one that works with image effects (other post-processing effects). If you're using URP, you get the best of both worlds and can have multiple scans with post-processing.
+
 [![Stars](https://img.shields.io/github/stars/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../stargazers)
 [![Forks](https://img.shields.io/github/forks/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../forks)
 [![GitHub watchers](https://img.shields.io/github/watchers/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../watchers)
 [![GitHub repo size](https://img.shields.io/github/repo-size/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../)
-
-A 3D scan/sonar-like post-processing effect. Essentially a visualization of a spherical signed distance field (SDF) rendered using the scene's depth and colour buffers. Multiple scans are supported without image-effects, and one that works with image effects (other post-processing effects). If you're using URP, you get the best of both worlds and can have multiple scans with post-processing.
 
 https://user-images.githubusercontent.com/37354140/173145001-7cd796c6-1687-4946-92e6-9edbab82fc5c.mp4
 
