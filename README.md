@@ -5,18 +5,18 @@
 [![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)](https://unity3d.com/get-unity/download)
 [![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_❌-darkred?logo=unity)](https://unity3d.com/get-unity/download)
 
-[![GitHub followers](https://img.shields.io/github/followers/MirzaBeig?style=social)](https://github.com/MirzaBeig?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheMirzaBeig?style=social)](http://twitter.com/intent/user?screen_name=TheMirzaBeig)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
-
-A 3D scan/sonar-like post-processing effect. Essentially a visualization of a spherical signed distance field (SDF) rendered using the scene's depth and colour buffers. Multiple scans are supported without image-effects, and one that works with image effects (other post-processing effects). If you're using URP, you get the best of both worlds and can have multiple scans with post-processing.
-
 [![Stars](https://img.shields.io/github/stars/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../stargazers)
 [![Forks](https://img.shields.io/github/forks/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../forks)
 [![GitHub watchers](https://img.shields.io/github/watchers/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../watchers)
 [![GitHub repo size](https://img.shields.io/github/repo-size/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../)
+
+A 3D scan/sonar-like post-processing effect. Essentially a visualization of a spherical signed distance field (SDF) rendered using the scene's depth and colour buffers. Multiple scans are supported without image-effects, and one that works with image effects (other post-processing effects). If you're using URP, you get the best of both worlds and can have multiple scans with post-processing.
+
+[![GitHub followers](https://img.shields.io/github/followers/MirzaBeig?style=social)](https://github.com/MirzaBeig?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheMirzaBeig?style=social)](http://twitter.com/intent/user?screen_name=TheMirzaBeig)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
 
 https://user-images.githubusercontent.com/37354140/173145001-7cd796c6-1687-4946-92e6-9edbab82fc5c.mp4
 
