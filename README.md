@@ -18,7 +18,7 @@ A 3D scan/sonar-like post-processing effect. Essentially a visualization of a sp
 [![GitHub repo size](https://img.shields.io/github/repo-size/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../)
 
-## Previews
+## Preview
 
 https://user-images.githubusercontent.com/37354140/173145001-7cd796c6-1687-4946-92e6-9edbab82fc5c.mp4
 
