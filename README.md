@@ -12,7 +12,7 @@
 
 A 3D scan/sonar-like post-processing effect. Essentially a visualization of a spherical signed distance field (SDF) rendered using the scene's depth and colour buffers. Multiple scans are supported without image-effects, and one that works with image effects (other post-processing effects). If you're using URP, you get the best of both worlds and can have multiple scans with post-processing.
 
-**Note**: For single-pulse scans, *please switch to the 'urp' branch*, which has [an experimental system for just that](https://x.com/TheMirzaBeig/status/1809173668456792524).
+**Note**: For single-pulse scans, *please switch to the [**'urp' branch**](https://github.com/MirzaBeig/Post-Processing-Scan/tree/urp)*, which has [an experimental system for just that](https://x.com/TheMirzaBeig/status/1809173668456792524).
 
 [![Stars](https://img.shields.io/github/stars/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../stargazers)
 [![Forks](https://img.shields.io/github/forks/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../forks)
