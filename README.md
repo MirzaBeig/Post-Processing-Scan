@@ -1,7 +1,7 @@
 # Post-Processing Scan
 
-[![Unity Version](https://img.shields.io/badge/Unity-2019.4%20LTS%2B-blueviolet?logo=unity)](https://unity3d.com/get-unity/download)
-[![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_✔️-darkgreen?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Version](https://img.shields.io/badge/Unity-2022.3%20LTS%2B-blueviolet?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_❌-darkgreen?logo=unity)](https://unity3d.com/get-unity/download)
 [![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)](https://unity3d.com/get-unity/download)
 [![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_❌-darkred?logo=unity)](https://unity3d.com/get-unity/download)
 
@@ -10,7 +10,7 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
 
-A 3D scan/sonar-like post-processing effect. Essentially a visualization of a spherical signed distance field (SDF) rendered using the scene's depth and colour buffers. Multiple scans are supported without image-effects, and one that works with image effects (other post-processing effects). If you're using URP, you get the best of both worlds and can have multiple scans with post-processing.
+A 3D scan/sonar-like post-processing effect for Unity (URP), controlled easily via transforms. Essentially a visualization of a spherical signed distance field (SDF) rendered using the scene's depth and colour buffers.
 
 [![Stars](https://img.shields.io/github/stars/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../stargazers)
 [![Forks](https://img.shields.io/github/forks/MirzaBeig/Post-Processing-Scan?style=for-the-badge)](../../forks)
